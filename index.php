@@ -9,6 +9,6 @@ echo "Hello World!";
         $lenguaje = "PHP";
     
 
-    <h1><?php echo $curso; ?></h1>
+    <h1> echo $curso; </h1>
 
-    <h2><?php echo $tema; ?></h2>
+    <h2> echo $tema; </h2>
