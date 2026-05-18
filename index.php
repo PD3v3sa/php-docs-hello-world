@@ -7,5 +7,6 @@
 <body>
  <?php
  echo "Hello World! Cefire";
+?>
 </body>
 </html>
